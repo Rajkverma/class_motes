@@ -1,1 +1,1 @@
-# class_motes
+# class_notes
